@@ -47,10 +47,13 @@ Identified the top 3 customers who spent the most money each year, and visualize
 
 Used in this project:
 Python:
+
 Pandas, NumPy, Seaborn, Matplotlib
 MySQL:
+
 Data storage and retrieval
 Jupyter Notebook: 
+
 For running and documenting the analysis
 
 
