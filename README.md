@@ -1,4 +1,4 @@
-## E-commerce Data Analysis
+## E-commerce Sales Data Breakdown
 
 This project focuses on analyzing an e-commerce dataset to extract valuable insights into customer behavior, sales trends, and product performance. The analysis is performed using Python and MySQL, leveraging various libraries such as Pandas, NumPy, Seaborn, and Matplotlib for data manipulation and visualization.
 
